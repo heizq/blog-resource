@@ -1,2 +1,0 @@
-# blog-resource
-blog resource
